@@ -4,7 +4,7 @@
     "kty": "RSA",
     "use": "sig",
     "kid": "XLQi4vUUH7EkSZ0o_wANU8fJxOPzNkTK0F13WeH5N_M",
-    "alg": "PS256",
+    "alg": "RS256",
     "n": "oZHmueqA2AlBceOc2KCQoce1Xmc9NTTcNvuV3jXhlB5TgvKhHq6xcSMUOEV5_wX0GXWavYqtUiYYkBSCZhms-B3D6K5jzQy4kBjMBhb3slwR2vh3qYxzsM-3FhNaakvKfcW5psphW1ESOXrH_VqKXAmnQ483h76sbP0QLhRqFIRcnaQlvxokOanssEwqOGQNQYxf8S6og6eoHmZxQvIW0-XtJ4mknfO-vhuKaNQrhcHJdPLRX_vGS8qvb1JUDC95RdeIBeHWQ4C4coQi-_qSn0nOuaIQ2-lzJWEzU9imyuixJ0FftsROe48COQrT4M0XyYfK0lzWodQoxHYOtsTN6Q",   
     "e": "AQAB"
     }
